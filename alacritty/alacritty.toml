@@ -34,12 +34,12 @@ family = "JetBrains Mono Nerd Font"
 style = "Medium"
 
 [colors]
-transparent_background_colors = true
+#transparent_background_colors = true
 
 [window]
 decorations = "Transparent"
 dynamic_title = true
-padding = { x = 5, y = 5}
+padding = { x = 6, y = 5}
 
 opacity = 0.5
-#startup_mode = "Maximized"
+startup_mode = "Maximized"
